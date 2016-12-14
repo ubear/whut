@@ -9,10 +9,10 @@ import time
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-mailto_list = ["1102128368@qq.com"]  #目标邮箱
+mailto_list = ["xxxx"]  #目标邮箱
 mail_host = "smtp.163.com"
-mail_user = "ciqingkedai10000@163.com"
-mail_pass = "chengyuan123"  #163邮箱smtp生成的密码
+mail_user = "xxxx"
+mail_pass = "xxxx"  #163邮箱smtp生成的密码
 
 
 def send_mail(to_list, sub, content):

@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-st_email = ["951004642@qq.com"]
+st_email = ["xxxx"]
 whut_url="http://www.whut.edu.cn/2015web/tzgg/"
 file_name=".st.log"
 file_path="."
